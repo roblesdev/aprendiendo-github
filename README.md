@@ -2,4 +2,4 @@
 
 Creando mi primer repositorio
 
-[Aqui esta mi Portfolio](https://www.linkedin.com/learning/github-para-programadores-2/crear-un-repositorio-en-github)
+[Aqui esta mi Portfolio](http://localhost/wordpress/wp-admin/edit.php?post_type=post)
